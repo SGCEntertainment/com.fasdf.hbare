@@ -1,0 +1,92 @@
+﻿año	el campeón	2 lugar	3 lugar
+2021-22	El Real Madrid	Barcelona	El Atlético De Madrid
+2020-21	El Atlético De Madrid	El Real Madrid	Barcelona
+2019-20	El Real Madrid	Barcelona	El Atlético De Madrid
+2018-19	Barcelona	El Atlético De Madrid	El Real Madrid
+2017-18	Barcelona	El Atlético De Madrid	El Real Madrid
+2016-17	El Real Madrid	Barcelona	El Atlético De Madrid
+2015-16	Barcelona	El Real Madrid	El Atlético De Madrid
+2014-15	Barcelona	El Real Madrid	El Atlético De Madrid
+2013-14	El Atlético De Madrid	Barcelona	El Real Madrid
+2012-13	Barcelona	El Real Madrid	El Atlético De Madrid
+2011-12	El Real Madrid	Barcelona	Valencia
+2010-11	Barcelona	El Real Madrid	Valencia
+2009-10	Barcelona	El Real Madrid	Valencia
+2008-09	Barcelona	El Real Madrid	Sevilla
+2007-08	El Real Madrid	El villarreal	Barcelona
+2006-07	El Real Madrid	Barcelona	Sevilla
+2005-06	Barcelona	El Real Madrid	Valencia
+2004-05	Barcelona	El Real Madrid	El villarreal
+2003-04	Valencia	Barcelona	Deportivo De La Coruña
+2002-03	El Real Madrid	Real Sociedad	Deportivo De La Coruña
+2001-02	Valencia	Deportivo De La Coruña	El Real Madrid
+2000-01	El Real Madrid	Deportivo De La Coruña	Mallorca
+1999-00	Deportivo De La Coruña	Barcelona	Valencia
+1998-99	Barcelona	El Real Madrid	Mallorca
+1997-98	Barcelona	Athletic De Bilbao	Real Sociedad
+1996-97	El Real Madrid	Barcelona	Deportivo De La Coruña
+1995-96	El Atlético De Madrid	Valencia	Barcelona
+1994-95	El Real Madrid	Deportivo De La Coruña	Real Betis
+1993-94	Barcelona	Deportivo De La Coruña	Real Zaragoza
+1992-93	Barcelona	El Real Madrid	Deportivo De La Coruña
+1991-92	Barcelona	El Real Madrid	El Atlético De Madrid
+1990-91	Barcelona	El Atlético De Madrid	El Real Madrid
+1989-90	El Real Madrid	Valencia	Barcelona
+1988-89	El Real Madrid	Barcelona	Valencia
+1987-88	El Real Madrid	Real Sociedad	El Atlético De Madrid
+1986-87	El Real Madrid	Barcelona	Espanyol
+1985-86	El Real Madrid	Barcelona	Athletic De Bilbao
+1984-85	Barcelona	El Atlético De Madrid	Athletic De Bilbao
+1983-84	Athletic De Bilbao	El Real Madrid	Barcelona
+1982-83	Athletic De Bilbao	El Real Madrid	El Atlético De Madrid
+1981-82	Real Sociedad	Barcelona	El Real Madrid
+1980-81	Real Sociedad	El Real Madrid	El Atlético De Madrid
+1979-80	El Real Madrid	Real Sociedad	El Sporting De Gijón
+1978-79	El Real Madrid	El Sporting De Gijón	El Atlético De Madrid
+1977-78	El Real Madrid	Barcelona	Athletic De Bilbao
+1976-77	El Atlético De Madrid	Barcelona	Athletic De Bilbao
+1975-76	El Real Madrid	Barcelona	El Atlético De Madrid
+1974-75	El Real Madrid	Real Zaragoza	Barcelona
+1973-74	Barcelona	El Atlético De Madrid	Real Zaragoza
+1972-73	El Atlético De Madrid	Barcelona	Espanyol
+1971-72	El Real Madrid	Valencia	Barcelona
+1970-71	Valencia	Barcelona	El Atlético De Madrid
+1969-70	El Atlético De Madrid	Athletic De Bilbao	Sevilla
+1968-69	El Real Madrid	Las Palmas De Gran Canaria	Barcelona
+1967-68	El Real Madrid	Barcelona	Las Palmas De Gran Canaria
+1966-67	El Real Madrid	Barcelona	Espanyol
+1965-66	El Atlético De Madrid	El Real Madrid	Barcelona
+1964-65	El Real Madrid	El Atlético De Madrid	Real Zaragoza
+1963-64	El Real Madrid	Barcelona	Real Betis
+1962-63	El Real Madrid	El Atlético De Madrid	Real Oviedo
+1961-62	El Real Madrid	Barcelona	El Atlético De Madrid
+1960-61	El Real Madrid	El Atlético De Madrid	Barcelona
+1959-60	Barcelona	El Real Madrid	Athletic De Bilbao
+1958-59	Barcelona	El Real Madrid	Athletic De Bilbao
+1957-58	El Real Madrid	El Atlético De Madrid	Barcelona
+1956-57	El Real Madrid	Sevilla	Barcelona
+1955-56	Athletic De Bilbao	Barcelona	El Real Madrid
+1954-55	El Real Madrid	Barcelona	Athletic De Bilbao
+1953-54	El Real Madrid	Barcelona	Valencia
+1952-53	Barcelona	Valencia	El Real Madrid
+1951-52	Barcelona	Athletic De Bilbao	El Real Madrid
+1950-51	El Atlético De Madrid	Sevilla	Valencia
+1949-50	El Atlético De Madrid	Deportivo De La Coruña	Valencia
+1948-49	Barcelona	Valencia	El Real Madrid
+1947-48	Barcelona	Valencia	El Atlético De Madrid
+1946-47	Valencia	Athletic De Bilbao	Atlético Aviación
+1945-46	Sevilla	Barcelona	Athletic De Bilbao
+1944-45	Barcelona	El Real Madrid	Atlético Aviación
+1943-44	Valencia	Atlético Aviación	Sevilla
+1942-43	Athletic De Bilbao	Sevilla	Barcelona
+1941-42	Valencia	El Real Madrid	Atlético Aviación
+1940-41	Atlético Aviación	Athletic De Bilbao	Valencia
+1939-40	Atlético Aviación	Sevilla	Athletic De Bilbao
+1935-36	Athletic De Bilbao	El Real Madrid	Real Oviedo
+1934-35	Real Betis	El Real Madrid	Real Oviedo
+1933-34	Athletic De Bilbao	El Real Madrid	Расинг
+1932-33	El Real Madrid	Athletic De Bilbao	Espanyol
+1931-32	El Real Madrid	Athletic De Bilbao	Barcelona
+1930-31	Athletic De Bilbao	Расинг	Real Sociedad
+1929-30	Athletic De Bilbao	Barcelona	Arenas
+1929	Barcelona	El Real Madrid	Athletic De Bilbao
